@@ -7,4 +7,4 @@ login == "trabajador"
         : login == "" 
             ? message = "Sin Sesion" 
             : message = "";
-/*La estructura de los operadores ternarios es: condicion ? true : falsde */
+/*La estructura de los operadores ternarios es: condicion ? true : false */
